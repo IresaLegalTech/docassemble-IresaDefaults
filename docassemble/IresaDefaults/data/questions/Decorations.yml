@@ -1,0 +1,40 @@
+---
+images:
+  address: address.svg
+  calendar: calendar.svg
+  email: email.svg
+  nationality: nationality.svg
+  birthplace: birthplace.svg
+  charity: charity.svg
+  help2: help2.svg
+  disability: disability.svg
+  disability2: disability2.svg
+  inclusion: inclusion.svg
+  inclusion2: inclusion2.svg
+  antrag: antrag.svg
+  apartment: apartment.svg
+  auto: auto.svg
+  beratung: beratung.svg
+  burger: burger.svg
+  daten: daten.svg
+  einkommen: einkommen.svg
+  form: form.svg
+  home: home.svg
+  kindergarten: kindergarten.svg
+  konto: konto.svg
+  married: married.svg
+  miete: miete.svg
+  money: money.svg
+  pkh: pkh:svg
+  property: property.svg
+  sachverhalt: sachverhalt.svg
+  schulden: schulden.svg
+  unterhalt: unterhalt.svg
+  vermogen: vermogen.svg
+  costs: costs.svg
+  wheelchair: wheelchair.svg
+  debt: debt.svg
+  insurance: insurance.svg
+  person: person.svg
+  care: care.svg
+---

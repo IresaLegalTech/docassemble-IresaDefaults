@@ -1,0 +1,8 @@
+---
+features:
+  question help button: True
+  navigation: True
+  progress bar: True
+  small screen navigation: dropdown
+  inverse navbar: False
+---
